@@ -12,6 +12,7 @@ def getWeather(location):
 
 
 
+
 i=True
 while i==True:
     location=input("Enter the location")
